@@ -1,4 +1,6 @@
-# FCFM
+# FCFM 
+# Grupo 002 de Mineria de Datos
+# Portafolio:
 
 ## FASE I
 
