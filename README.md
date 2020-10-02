@@ -1,6 +1,6 @@
-#FCFM
+# FCFM
 
-##FASE I
+## FASE I
 
 [Mapa Mental I](https://github.com/DaniMonsh/Mineria_Datos/blob/master/MapaMental_1_1563836.pdf)
 
