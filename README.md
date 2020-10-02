@@ -10,4 +10,6 @@
 
 [Ejercicio I](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/Ejercicios_1.pdf)
 
+[Mapa Mental II]
+
 [Resumenes]
