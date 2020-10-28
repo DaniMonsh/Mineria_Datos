@@ -14,7 +14,7 @@
 
 [Resumenes]
 
-##FASE II
+## FASE II
 
 [Ejercicios Base de Datos]
 
