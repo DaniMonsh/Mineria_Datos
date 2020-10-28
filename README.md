@@ -13,3 +13,13 @@
 [Mapa Mental II]
 
 [Resumenes]
+
+##FASE II
+
+[Ejercicios Base de Datos]
+
+[Ejercicios Prácticos de Phyton]
+
+[Avance I Proyecto Integrador](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Avance1-PIA_Equipo11_002.pdf)
+
+[Ejercicio limpieza de datos]
