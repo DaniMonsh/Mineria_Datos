@@ -24,4 +24,6 @@
 
 [Ejercicio limpieza de datos]
 
-[Ejercicios Practicos de la BD](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/EjerciciosPracticasMineriadeDatos_Equipo11.ipynb)
+[Ejercicios Practicos de la BD](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/EjerciciosPythonMineriadeDatos_Equipo11_002.ipynb)
+
+[Avance II Proyecto Integrador]()
