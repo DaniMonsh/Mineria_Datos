@@ -27,3 +27,5 @@
 [Ejercicios Practicos de la BD](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/EjerciciosPythonMineriadeDatos_Equipo11_002.ipynb)
 
 [Avance II Proyecto Integrador](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/AvancePIA_II_Gpo002_Equipo11.ipynb)
+
+## FASE III
