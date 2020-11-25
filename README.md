@@ -29,3 +29,8 @@
 [Avance II Proyecto Integrador](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/AvancePIA_II_Gpo002_Equipo11.ipynb)
 
 ## FASE III
+###### Proyecto
+
+* [Póster]()
+
+* [Programa](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/ClasificacionHongos_PIA_MineriaDatos.ipynb)
