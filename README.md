@@ -1,8 +1,8 @@
 # FCFM 
-## Grupo 002 de Mineria de Datos
-## Portafolio:
+# Grupo 002 de Mineria de Datos
+# Portafolio:
 
-###### FASE I
+## FASE I
 
 * [Mapa Mental I](https://github.com/DaniMonsh/Mineria_Datos/blob/master/MapaMental_1_1563836.pdf)
 
@@ -14,7 +14,7 @@
 
 * [Resumenes]()
 
-###### FASE II
+## FASE II
 
 * [Ejercicios Base de Datos]
 
@@ -28,7 +28,7 @@
 
 * [Avance II Proyecto Integrador](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/AvancePIA_II_Gpo002_Equipo11.ipynb)
 
-###### FASE III
+## FASE III
 
 ###### Proyecto
 
