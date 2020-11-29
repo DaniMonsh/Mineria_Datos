@@ -10,19 +10,19 @@
 
 * [Ejercicio I](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/Ejercicios_1.pdf)
 
-* [Mapa Mental II]
+* [Mapa Mental II]()
 
-* [Resumenes]
+* [Resumenes]()
 
 ###### FASE II
 
 * [Ejercicios Base de Datos]
 
-* [Ejercicios Prácticos de Phyton]
+* [Ejercicios Prácticos de Phyton]()
 
 * [Avance I Proyecto Integrador](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Avance1-PIA_Equipo11_002.pdf)
 
-* [Ejercicio limpieza de datos]
+* [Ejercicio limpieza de datos]()
 
 * [Ejercicios Practicos de la BD](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/EjerciciosPythonMineriadeDatos_Equipo11_002.ipynb)
 
@@ -32,6 +32,6 @@
 
 ###### Proyecto
 
-* [Póster]()
+* [Póster](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/PosterPIA_Miner%C3%ADa_Datos_Equipo11.pdf)
 
 * [Programa](https://github.com/AlfonLLM/Mineria_de_Datos/blob/master/ClasificacionHongos_PIA_MineriaDatos.ipynb)
